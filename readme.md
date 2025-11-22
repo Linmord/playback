@@ -1,6 +1,10 @@
-### playback-beta
+# playback-beta
 
-基于otov3的音频网络串流测试播放器
+基于[otov3](https://github.com/ebitengine/oto)的音频网络串流测试播放器
+
+
+<img width="900" height="600" alt="088ab08a1f8e3b6d8b536454941b494" src="https://github.com/user-attachments/assets/a8415716-5325-41d2-b253-58bd22fa5628" />
+
 
 如果你需要服务端：[audiorelay](https://github.com/Linmord/audiorelay)
 
